@@ -1,6 +1,10 @@
 # CAMix
 (TCSVT 2022) Context-Aware Mixup for Domain Adaptive Semantic Segmentation
 
+**[[Arxiv]](https://arxiv.org/pdf/2108.03557.pdf)**
+**[[Paper]](https://ieeexplore.ieee.org/document/9889681/)**
+
+
 ## Citing CAMix
 If you find CAMix useful in your research, please consider citing:
 ```bibtex
